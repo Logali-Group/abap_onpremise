@@ -21,5 +21,9 @@ CLASS ZCL_LISTADO IMPLEMENTATION.
 *      WRITE / sy-index.
     ENDDO.
 
+    DO 20 TIMES.
+*      WRITE / sy-index.
+    ENDDO.
+
   ENDMETHOD.
 ENDCLASS.
